@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=0trace
+Encoding=UTF-8
+Exec=sh -c "0trace;${SHELL:-bash}"
+Icon=archstrike-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-08-route-analysis;
+X-archstrike-Package=0trace

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=statsgen
+Encoding=UTF-8
+Exec=sh -c "statsgen -h;${SHELL:-bash}"
+Icon=archstrike-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-05-profile;
+X-archstrike-Package=pack

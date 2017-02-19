@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=udptunnel
+Encoding=UTF-8
+Exec=sh -c "udptunnel -h;${SHELL:-bash}"
+Icon=archstrike-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-02-tunneling;
+X-archstrike-Package=udptunnel

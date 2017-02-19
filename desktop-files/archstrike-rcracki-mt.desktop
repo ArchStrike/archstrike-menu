@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=rcracki_mt
+Encoding=UTF-8
+Exec=sh -c "rcracki_mt;${SHELL:-bash}"
+Icon=archstrike-rcracki_mt.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;05-password-attacks;
+X-archstrike-Package=rcracki-mt

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=jad
+Encoding=UTF-8
+Exec=sh -c "jad;${SHELL:-bash}"
+Icon=archstrike-jad.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=07-reverseengineer;
+X-archstrike-Package=jad

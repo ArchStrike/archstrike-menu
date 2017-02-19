@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=intersect
+Encoding=UTF-8
+Exec=sh -c "intersect-create;${SHELL:-bash}"
+Icon=archstrike-intersect.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-01-os-backdoors;10-maintaining-access;
+X-archstrike-Package=intersect

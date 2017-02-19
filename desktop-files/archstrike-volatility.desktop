@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=volatility
+Encoding=UTF-8
+Exec=sh -c "volatility -h;${SHELL:-bash}"
+Icon=archstrike-volatility.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-forensics;
+X-archstrike-Package=volatility

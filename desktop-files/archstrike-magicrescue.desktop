@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=magicrescue
+Encoding=UTF-8
+Exec=sh -c "magicrescue;${SHELL:-bash}"
+Icon=archstrike-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-05-forensic-carving-tools;
+X-archstrike-Package=magicrescue

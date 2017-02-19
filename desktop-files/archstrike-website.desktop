@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Website
+Encoding=UTF-8
+Exec=exo-open  --launch WebBrowser %u archstrike.org
+Icon=archstrike
+StartupNotify=false
+Terminal=false
+Type=Application

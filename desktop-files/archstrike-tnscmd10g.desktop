@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=tnscmd10g
+Encoding=UTF-8
+Exec=sh -c "tnscmd10g;${SHELL:-bash}"
+Icon=archstrike-tnscmd10g.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-database-assessment;
+X-archstrike-Package=tnscmd10g

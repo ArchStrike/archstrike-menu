@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=rebind
+Encoding=UTF-8
+Exec=sh -c "dns-rebind;${SHELL:-bash}"
+Icon=archstrike-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=09-02-network-spoofing;
+X-archstrike-Package=rebind

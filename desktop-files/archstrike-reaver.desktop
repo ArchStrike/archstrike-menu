@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=reaver
+Encoding=UTF-8
+Exec=sh -c "reaver -h;${SHELL:-bash}"
+Icon=archstrike-reaver.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-wireless-attacks;
+X-archstrike-Package=reaver

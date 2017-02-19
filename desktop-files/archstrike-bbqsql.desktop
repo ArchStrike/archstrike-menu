@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=bbqsql
+Encoding=UTF-8
+Exec=sh -c "bbqsql;${SHELL:-bash}"
+Icon=archstrike-bbqsql.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-database-assessment;
+X-archstrike-Package=bbqsql

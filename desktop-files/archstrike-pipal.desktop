@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=pipal
+Encoding=UTF-8
+Exec=sh -c "pipal -h;${SHELL:-bash}"
+Icon=archstrike-pipal.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=12-reporting;
+X-archstrike-Package=pipal

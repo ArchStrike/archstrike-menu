@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=rfcat
+Encoding=UTF-8
+Exec=sh -c "rfcat -h;${SHELL:-bash}"
+Icon=archstrike-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-05-radio-tools;
+X-archstrike-Package=rfcat

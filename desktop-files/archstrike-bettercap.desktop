@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=bettercap
+Encoding=UTF-8
+Exec=sh -c "bettercap --help;${SHELL:-bash}"
+Icon=archstrike-bettercap.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=09-sniffing-spoofing;
+X-archstrike-Package=bettercap

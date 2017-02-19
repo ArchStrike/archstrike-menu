@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=hydra
+Encoding=UTF-8
+Exec=sh -c "hydra -h;${SHELL:-bash}"
+Icon=archstrike-hydra.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-01-online-attacks;
+X-archstrike-Package=hydra
+
+

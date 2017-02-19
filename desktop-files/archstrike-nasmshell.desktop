@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=NASM shell
+Encoding=UTF-8
+Exec=sh -c "cd /opt/metasploit/tools/exploit && ./nasm_shell.rb;${SHELL:-bash}"
+Icon=archstrike-metasploit.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=07-reverseengineer;
+X-archstrike-Package=metasploit-framework

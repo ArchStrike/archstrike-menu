@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=sslyze
+Encoding=UTF-8
+Exec=sh -c "sslyze -h;${SHELL:-bash}"
+Icon=archstrike-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-13-ssl-analysis;
+X-archstrike-Package=sslyze

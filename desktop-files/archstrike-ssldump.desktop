@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ssldump
+Encoding=UTF-8
+Exec=sh -c "ssldump -h;${SHELL:-bash}"
+Icon=archstrike-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-13-ssl-analysis;
+X-archstrike-Package=ssldump

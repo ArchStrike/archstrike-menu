@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=apache-users
+Encoding=UTF-8
+Exec=sh -c "apache-users;${SHELL:-bash}"
+Icon=archstrike-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-04-web-crawlers;
+X-archstrike-Package=apache-users

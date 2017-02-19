@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=macchanger
+Encoding=UTF-8
+Exec=sh -c "macchanger -h;${SHELL:-bash}"
+Icon=archstrike-macchanger.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=09-sniffing-spoofing;
+X-archstrike-Package=macchanger

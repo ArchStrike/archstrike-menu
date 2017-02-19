@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Github
+Encoding=UTF-8
+Exec=exo-open  --launch WebBrowser %u https://github.com/ArchStrike
+Icon=archstrike
+StartupNotify=false
+Terminal=false
+Type=Application

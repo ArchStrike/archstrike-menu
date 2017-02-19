@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=faraday IDE
+Encoding=UTF-8
+Exec=sh -c "faraday;${SHELL:-bash}"
+Icon=archstrike-faraday.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=12-reporting;
+X-archstrike-Package=python-faraday

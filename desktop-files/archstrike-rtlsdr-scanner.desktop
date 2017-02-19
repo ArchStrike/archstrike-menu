@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=rtlsdr-scanner
+Encoding=UTF-8
+Exec=sh -c "rtlsdr-scanner"
+Icon=archstrike-menu.png
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=06-05-radio-tools;
+X-archstrike-Package=rtlsdr-scanner

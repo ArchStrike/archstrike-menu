@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=sqlsus
+Encoding=UTF-8
+Exec=sh -c "sqlsus -h;${SHELL:-bash}"
+Icon=archstrike-sqlsus.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-database-assessment;
+X-archstrike-Package=sqlsus

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=jd-gui
+Encoding=UTF-8
+Exec=sh -c "jd-gui"
+Icon=archstrike-jd-gui.png
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=07-reverseengineer;
+X-archstrike-Package=jd-gui

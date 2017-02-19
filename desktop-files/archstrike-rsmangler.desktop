@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=rsmangler
+Encoding=UTF-8
+Exec=sh -c "rsmangler -h;${SHELL:-bash}"
+Icon=archstrike-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-05-profile;
+X-archstrike-Package=rsmangler

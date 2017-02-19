@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=eyewitness
+Encoding=UTF-8
+Exec=sh -c "eyewitness -h;${SHELL:-bash}"
+Icon=archstrike-eyewitness.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=12-reporting;
+X-archstrike-Package=eyewitness

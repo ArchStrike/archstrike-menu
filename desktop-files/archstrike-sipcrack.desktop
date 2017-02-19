@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=sipcrack
+Encoding=UTF-8
+Exec=sh -c "sipcrack -h;${SHELL:-bash}"
+Icon=archstrike-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;
+X-archstrike-Package=sipcrack

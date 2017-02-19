@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=sidguesser
+Encoding=UTF-8
+Exec=sh -c "sidguesser;${SHELL:-bash}"
+Icon=archstrike-sidguesser.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-database-assessment;
+X-archstrike-Package=sidguesser

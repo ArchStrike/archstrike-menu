@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=u3-pwn
+Encoding=UTF-8
+Exec=sh -c "u3-pwn;${SHELL:-bash}"
+Icon=archstrike-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-01-os-backdoors;13-social-engineering-tools;
+X-archstrike-Package=u3-pwn

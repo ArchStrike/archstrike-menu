@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=sqlninja
+Encoding=UTF-8
+Exec=sh -c "sqlninja -h;${SHELL:-bash}"
+Icon=archstrike-sqlninja.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-database-assessment;
+X-archstrike-Package=sqlninja
