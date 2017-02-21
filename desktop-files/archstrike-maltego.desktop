@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=maltegoce
+Name=maltego
 Encoding=UTF-8
-Exec=sh -c "maltegoce"
+Exec=sh -c "maltego"
 Icon=archstrike-maltegoce.png
 StartupNotify=false
 Terminal=false
 Type=Application
 Categories=01-info-gathering;01-07-osint-analysis;13-social-engineering-tools;
-X-archstrike-Package=maltegoce
+X-archstrike-Package=maltego
