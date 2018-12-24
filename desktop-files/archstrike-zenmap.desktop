@@ -7,4 +7,4 @@ StartupNotify=false
 Terminal=false
 Type=Application
 Categories=01-info-gathering;01-04-network-scanners;
-X-archstrike-Package=zenmap
+X-archstrike-Package=nmap
