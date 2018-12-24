@@ -7,4 +7,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=14-08-beef-service;14-services;
-X-archstrike-Package=beef-xss
+X-archstrike-Package=beef-git
