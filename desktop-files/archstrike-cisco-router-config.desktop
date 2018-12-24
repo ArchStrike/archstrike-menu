@@ -7,4 +7,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=02-01-cisco-tools;06-01-cisco-attacks;
-X-archstrike-Package=copy-router-config
+X-archstrike-Package=cisco-router-config
