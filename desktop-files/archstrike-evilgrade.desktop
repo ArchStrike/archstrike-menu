@@ -7,4 +7,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=09-02-network-spoofing;
-X-archstrike-Package=isr-evilgrade
+X-archstrike-Package=evilgrade-git
