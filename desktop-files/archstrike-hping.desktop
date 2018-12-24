@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=hping3
+Name=hping
 Encoding=UTF-8
-Exec=sh -c "hping3 -h;${SHELL:-bash}"
+Exec=sh -c "hping -h;${SHELL:-bash}"
 Icon=archstrike-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-02-identify-live-hosts;
-X-archstrike-Package=hping3
+X-archstrike-Package=hping
