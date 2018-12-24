@@ -7,4 +7,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=12-reporting;
-X-archstrike-Package=python-faraday
+X-archstrike-Package=faraday-git
