@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=wireshark
+Name=wireshark-gtk
 Encoding=UTF-8
 Exec=sh -c "wireshark-gtk"
 Icon=archstrike-wireshark.png
@@ -7,4 +7,4 @@ StartupNotify=false
 Terminal=false
 Type=Application
 Categories=09-sniffing-spoofing;
-X-archstrike-Package=wireshark
+X-archstrike-Package=wireshark-gtk
