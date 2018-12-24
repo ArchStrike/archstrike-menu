@@ -1,10 +1,10 @@
 [Desktop Entry]
 Name=ophcrack-cli
 Encoding=UTF-8
-Exec=sh -c "ophcrack-cli;${SHELL:-bash}"
+Exec=sh -c "ophcrack -h;${SHELL:-bash}"
 Icon=archstrike-ophcrack.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=05-02-offline-attacks;
-X-archstrike-Package=ophcrack-cli
+X-archstrike-Package=ophcrack
