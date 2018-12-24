@@ -7,4 +7,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=10-02-tunneling;10-maintaining-access;
-X-archstrike-Package=proxychains
+X-archstrike-Package=proxychains-ng
