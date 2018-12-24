@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=freeradius-wpe
+Name=hostapd-wpe
 Encoding=UTF-8
-Exec=sh -c "freeradius -h;${SHELL:-bash}"
+Exec=sh -c "hostapd -h;${SHELL:-bash}"
 Icon=archstrike-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=06-01-wireless-tools;
-X-archstrike-Package=freeradius-wpe
+X-archstrike-Package=hostapd-wpe
