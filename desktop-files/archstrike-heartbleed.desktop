@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=heartleech
+Name=heartbleed
 Encoding=UTF-8
-Exec=sh -c "heartleech;${SHELL:-bash}"
+Exec=sh -c "heartbleed;${SHELL:-bash}"
 Icon=archstrike-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=03-05-web-vulnerability-scanners;
-X-archstrike-Package=heartleech
+X-archstrike-Package=heartbleed-git
