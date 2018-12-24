@@ -7,4 +7,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=06-01-wireless-tools;
-X-archstrike-Package=wash
+X-archstrike-Package=reaver-wps-fork-t6x-git
